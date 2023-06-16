@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51221549452",
+    "firebase_url": "https://nocturno-lamp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nocturno-lamp",
+    "storage_bucket": "nocturno-lamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51221549452:android:61e5b4d4f3d7c8e0c9c6a9",
+        "android_client_info": {
+          "package_name": "com.example.tr_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51221549452-5gs2jnp9o7fo59gco5411u6u9n5a3bsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowTxCkPGmtgUpzvRzrIOk6zF7R_7hN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51221549452-5gs2jnp9o7fo59gco5411u6u9n5a3bsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
